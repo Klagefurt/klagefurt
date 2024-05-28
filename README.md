@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C#, Python and C++ Developer</h3>
 
-<img src="C:\Users\_\Downloads\image_banner.png" alt="альтернативный текст">
+<img src="C:\Users\_\Downloads\image_banner.png" alt="" width="1000" height="300">>
 
 <!--
 **Klagefurt/klagefurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
