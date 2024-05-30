@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Nikolay</a> 
+<!--<h1 align="center">Hi there, I'm Nikolay</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">C#, Python and C++ Developer</h3>
+<h3 align="center">C#, Python and C++ Developer</h3>-->
 
-<!--![image_banner](https://github.com/Klagefurt/klagefurt/assets/124679271/00bd5809-bb57-48d8-aecd-fb9767fff422)-->
+![image_banner](https://github.com/Klagefurt/klagefurt/assets/124679271/00bd5809-bb57-48d8-aecd-fb9767fff422)
 
 
 <!--[![codewars](https://www.codewars.com/users/Nick_1987/badges/large)](https://www.codewars.com/users/username)-->
