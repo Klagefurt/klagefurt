@@ -35,7 +35,7 @@ Tools:
 
 
 
-<!--![](https://leetcard.jacoblin.cool/leetcode?site=cn)-->
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klagefurt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
