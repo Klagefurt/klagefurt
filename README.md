@@ -35,7 +35,7 @@ Tools:
 
 
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klagefurt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,8 +43,8 @@ Tools:
 
 <!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klagefurt&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klagefurt&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=klagefurt&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 <!--
 **Klagefurt/klagefurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
